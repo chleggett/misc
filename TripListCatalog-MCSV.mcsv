@@ -1,0 +1,355 @@
+Bandana,Clothing
+Dress,Clothing
+Earmuffs,Clothing
+Gloves,Clothing
+Hat - Beanie,Clothing
+Hat - Cap,Clothing
+Hat - Sun Hat,Clothing
+Headband,Clothing
+Jacket,Clothing
+Jacket - Rain Jacket,Clothing
+Jacket - Sport Coat,Clothing
+Jeans,Clothing
+Pants,Clothing
+Pants - Rain Pants,Clothing
+Pants - Sweatpants,Clothing
+Pants - Thermal,Clothing
+Pants - Zip-off,Clothing
+Sarong,Clothing
+Scarf,Clothing
+Scarf - Neck Gaiter (Wool),Clothing
+Shirt - Cotton T-Shirt,Clothing
+Shirt - Hoodie,Clothing
+Shirt - Long-sleeve Button Down,Clothing
+Shirt - Pullover (Wool),Clothing
+Shirt - Short-sleeve Button Down,Clothing
+Shirt - Sweater,Clothing
+Shirt - Sweatshirt,Clothing
+Shirt - Synthetic T-Shirt,Clothing
+Shirt - Thermal,Clothing
+Shoes - Business,Clothing
+Shoes - Flops,Clothing
+Shoes - Running,Clothing
+Shoes - Sandals,Clothing
+Shoes - Toe Shoes,Clothing
+Shoes - Trail Running,Clothing
+Shorts,Clothing
+Skirt,Clothing
+Socks - Business,Clothing
+Socks - Cotton Athletic,Clothing
+Socks - Sleeping Socks,Clothing
+Socks - Synthetic Athletic,Clothing
+Socks - Toe Socks,Clothing
+Suit,Clothing
+Swimsuit,Clothing
+Swimsuit - Coverup,Clothing
+Tie,Clothing
+Underwear - Boxers,Clothing
+Underwear - Bra,Clothing
+Underwear - Cotton,Clothing
+Underwear - Panties,Clothing
+Underwear - Synthetic,Clothing
+Food - 1.5 lbs per day,Consumables
+Food - 1.75 lbs per day,Consumables
+Food - 2 lbs per day,Consumables
+Fuel - 2 oz Alcohol per Day,Consumables
+Water - 2 liters,Consumables
+Aluminum Foil,Cooking
+Bowls,Cooking
+Cookware - Reflectix Cozy,Cooking
+Cookware - Snow Peak Trek 700 ,Cooking
+Dish soap,Cooking
+Fuel - 4oz Alcohol Fuel Bottle,Cooking
+Fuel - White Gas,Cooking
+Ketchup,Cooking
+Kitchen Knife,Cooking
+Mug - Plastic,Cooking
+Mug - Titanium,Cooking
+Mug - Travel Coffee,Cooking
+Paper Towels,Cooking
+Plates,Cooking
+Stove - Aluminum Windscreen,Cooking
+Stove - MSR Dragonfly,Cooking
+Stove - Vargo Triad,Cooking
+Tablecloth,Cooking
+Trash Bags,Cooking
+Utensils - Forks,Cooking
+Utensils - Knives,Cooking
+Utensils - Spoons,Cooking
+Utensils - Titanium Spork,Cooking
+ATM card,Documents
+Business Cards,Documents
+Calling card,Documents
+Cash,Documents
+Check(s),Documents
+Credit card,Documents
+Emergency Contact Card,Documents
+Guidebook,Documents
+ID - Drivers License,Documents
+ID - Passport,Documents
+ID - Student,Documents
+Insurance Card - Auto,Documents
+Insurance Card - Medical,Documents
+Journal,Documents
+Maps,Documents
+Medical Records,Documents
+Notebook,Documents
+Pen,Documents
+Pencil,Documents
+Ticket - Boat,Documents
+Ticket - Bus,Documents
+Ticket - Ferry,Documents
+Ticket - Plane,Documents
+Ticket - Rail,Documents
+Ticket - Subway,Documents
+Traveler's checks,Documents
+Vaccine Book,Documents
+VAT Receipts,Documents
+Visa,Documents
+Visa Photos,Documents
+Wallet,Documents
+Cable - HDMI,Electronics
+Camera - Lenses,Electronics
+Camera - Memory Card Reader,Electronics
+Camera - Memory Cards,Electronics
+Camera - Nikon D3000,Electronics
+Charger - Camera,Electronics
+Charger - E-Book Reader,Electronics
+Charger - iPad,Electronics
+Charger - iPhone,Electronics
+Charger - MacBook,Electronics
+E-Book Reader,Electronics
+Extension Cord,Electronics
+Extra Batteries,Electronics
+GPS w/ Extra Batteries,Electronics
+Headphones,Electronics
+iPad,Electronics
+iPhone,Electronics
+iPod,Electronics
+Laser Pointer,Electronics
+MacBook,Electronics
+USB Flash Drive,Electronics
+Voltage Converter,Electronics
+Flask,Extras
+Pipe & Tobacco,Extras
+Sewing Kit,Extras
+Sun Glasses,Extras
+Yo-yo,Extras
+Apps for kids,Family
+Audio Books,Family
+Baby Food,Family
+Baby Powder,Family
+Baby Toys,Family
+Bibs,Family
+Blanket,Family
+Books,Family
+Bottles,Family
+Car Seat,Family
+Changing Pad,Family
+Coloring Books,Family
+Crayons,Family
+Crib,Family
+Diapers,Family
+Diapers - Pullups,Family
+Diapers - Swim,Family
+Dolls,Family
+DVD Movies,Family
+Food & Snacks,Family
+Formula,Family
+Garbage Bags,Family
+Highchair,Family
+Juice,Family
+Kids books,Family
+Lotion,Family
+Pacifiers,Family
+Paper Towels,Family
+Playing Cards,Family
+Portable DVD Player,Family
+Stroller,Family
+Stuffed Animals,Family
+Travel Games,Family
+Video Games,Family
+Wet Wipes,Family
+Allergy Pills,First Aid & Medical
+Antacid,First Aid & Medical
+Anti-itch cream,First Aid & Medical
+Antiseptic Wipes,First Aid & Medical
+Band-Aids,First Aid & Medical
+Benadryl,First Aid & Medical
+Birth Control,First Aid & Medical
+Butterfly Closure,First Aid & Medical
+Cold Medicine,First Aid & Medical
+Imodium,First Aid & Medical
+Insect Repellent,First Aid & Medical
+Moleskin,First Aid & Medical
+Motion Sickness Medicine,First Aid & Medical
+Nausea / Diarrhea Medicine,First Aid & Medical
+Neosporin w/ pain relief,First Aid & Medical
+Pain Medicine,First Aid & Medical
+Paper tape,First Aid & Medical
+Prescription Medication,First Aid & Medical
+Rubber Gloves,First Aid & Medical
+Sleeping Pills,First Aid & Medical
+Sterile gauze pads,First Aid & Medical
+Sun Block,First Aid & Medical
+Sunburn Lotion,First Aid & Medical
+Tweezers,First Aid & Medical
+Vitamins,First Aid & Medical
+WoundSeal Powder,First Aid & Medical
+Zinc Oxide Cream,First Aid & Medical
+Beach Towel,Outdoors
+Bike,Outdoors
+Binoculars,Outdoors
+Blanket,Outdoors
+Camp Chairs,Outdoors
+Clothes Line,Outdoors
+Clothes Pins,Outdoors
+Compass,Outdoors
+Cooler,Outdoors
+Fishing Gear,Outdoors
+Hammock,Outdoors
+Life Jacket,Outdoors
+Plastic sit pads,Outdoors
+Trekking Poles - Black Diamond Approach,Outdoors
+Trowel,Tools
+Umbrella,Outdoors
+50’ Paracord (Bear Bag),Pack
+Clothing Stuff Sack,Pack
+Compression Stuff Sack,Pack
+Dry Bag - Large Coghlan’s,Pack
+Dry Bag - Medium Coghlan’s,Pack
+Dry Bag - Small Coghlan’s,Pack
+Eagle Creek 1/4 Cube,Pack
+Eagle Creek Medium Zip Pouch,Pack
+Eagle Creek Small Zip Pouch,Pack
+Food Stuff Sack,Pack
+Gear Stuff Sack,Pack
+Laptop Sleeve,Pack
+Lowepro Photo Hatchback 16L,Pack
+Mountain Smith Day w/ Platypus “Straps”,Pack
+Osprey Atmos 50,Pack
+Pack Liner - Trash Bag,Pack
+Timbuk2 Messenger Bag,Pack
+2 mil Plastic Groundsheet,Shelter
+8 Aluminum J-pegs w/ bag,Shelter
+Tarp - 9 x 7 Polyurethane Nylon w/ Guylines,Shelter
+Tent - Coleman,Shelter
+Tent - Kelty Streamside,Shelter
+Mattress - Blowup,Sleeping
+Mattress - Ridge-rest,Sleeping
+Mattress - Therm‑a‑Rest Ultralight,Sleeping
+Mattress - Therm‑a‑Rest Ultralight 3/4 ,Sleeping
+Neck Pillow,Sleeping
+Pillow,Sleeping
+Sleeping Bag,Sleeping
+Sleeping Bag - Marmot Alpine (20°),Sleeping
+Sleeping Bag - North Face Aleutian 1S (55°),Sleeping
+Sleeping Bag - Sheet Bag,Sleeping
+"Combo whistle, compass, thermometer, magnifier",Survival
+Esbit Tab & Dryer Lint,Survival
+Mini Lighter - Spare,Survival
+Orange Bandana,Survival
+Safety Pins,Survival
+Water Treatment Tabs,Survival
+Animal Boarding,Tasks
+Book Airbnb,Tasks
+Book Cruise,Tasks
+Book Flight,Tasks
+Book Home Exchange,Tasks
+Book Hotel,Tasks
+Book Rental Car,Tasks
+Charge Batteries,Tasks
+Charge Phone,Tasks
+Check-in Online,Tasks
+Confirm Tickets,Tasks
+Download Apps,Tasks
+Download Books,Tasks
+Download Games,Tasks
+Download Movies,Tasks
+Download Music,Tasks
+Download TV Shows,Tasks
+Exchange Money,Tasks
+Get Cash,Tasks
+Get Travel Insurance,Tasks
+Get Travelers Checks,Tasks
+Get Vaccinated,Tasks
+Get Visa,Tasks
+Hold Newspaper,Tasks
+Make Budget,Tasks
+Make Itinerary,Tasks
+Pack Luggage,Tasks
+Print Tickets,Tasks
+Request Time Off,Tasks
+Reserve Restaurants,Tasks
+Security - Check Windows,Tasks
+Security - Hold Mail,Tasks
+Security - Hold Newspaper,Tasks
+Security - Lock Gate,Tasks
+Security - Set Alarm,Tasks
+Security - Set Light Timers,Tasks
+Security - Talk to Neighbors,Tasks
+Set Answering Machine,Tasks
+Set E-mail Autoresponder,Tasks
+Update Will,Tasks
+Weigh Luggage,Tasks
+4oz Camp Soap,Toiletries
+Beard Oil,Toiletries
+Brush,Toiletries
+Bug spray,Toiletries
+Comb,Toiletries
+Conditioner,Toiletries
+Contact Lens Solution,Toiletries
+Contacts,Toiletries
+Cotton Swabs,Toiletries
+Dental Floss,Toiletries
+Deodorant,Toiletries
+Ear Plugs,Toiletries
+Hair Care Products,Toiletries
+Hair Dryer,Toiletries
+Hair Gel,Toiletries
+Hair Spray,Toiletries
+Hand Sanitizer,Toiletries
+Lipbalm w/ Sunblock,Toiletries
+Make-Up,Toiletries
+Mirror,Toiletries
+Moist Towelettes,Toiletries
+Moisturiser,Toiletries
+Mouth Wash,Toiletries
+Mustache Wax,Toiletries
+Nail Clippers,Toiletries
+Nail File,Toiletries
+Razor,Toiletries
+Shampoo,Toiletries
+Shave Oil,Toiletries
+Shaving Cream,Toiletries
+Sink Stopper,Toiletries
+Soap,Toiletries
+Sunscreen,Toiletries
+Tampons / Pads,Toiletries
+Toilet Paper,Toiletries
+Toothbrush,Toiletries
+Toothpaste,Toiletries
+Towel,Toiletries
+Wet Wipes,Toiletries
+Bottle Opener,Tools
+Can Opener,Tools
+Duct Tape,Tools
+Flashlight,Tools
+Hammer,Tools
+Headlamp,Tools
+Knife - CRKT KISS,Tools
+Knife - Gerber Mini Multitool,Tools
+Knife - Leatherman Style Keychain,Tools
+Knife - Swiss Army Classic SD,Tools
+Lantern,Tools
+LED Flashlight w/ Lanyard,Tools
+Lighter - Butane,Tools
+Lighter - Mini,Tools
+PackTowl,Tools
+Padlock,Tools
+Platypus 3L Hydration Pack,Water
+PUR Water Filter,Water
+Sawyer 2L Bag,Water
+Sawyer Cleaning Plunger,Water
+Sawyer Mini,Water
+Water Bottle,Water
